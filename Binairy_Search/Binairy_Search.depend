@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1746736097 source:c:\users\ahmed\onedrive\desktop\algorithm\algorithm-implementation\binairy_search\main.cpp
+	<iostream>
+	<algorithm>
+
