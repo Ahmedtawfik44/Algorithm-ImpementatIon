@@ -7,7 +7,7 @@ using namespace std;
 //Best Case => O(1)
 
 //Space Complexity
-// S(n)=h*1=logn
+//  S(n)=h*1=logn
 
 int binary_search_Rec(int a[],int target,int l,int h){
   if(l<=h){
