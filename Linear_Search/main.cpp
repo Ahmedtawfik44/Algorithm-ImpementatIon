@@ -5,6 +5,9 @@ using namespace std;
 // avarage Case => O(n/2) => O(n)
 // Best case => O(1)
 
+//Space Complexity
+// S(n)=1
+
 bool linear_search(int a[],int n ,int target){
    for(int i=0;i<n;i++){
     if(a[i]==target)
