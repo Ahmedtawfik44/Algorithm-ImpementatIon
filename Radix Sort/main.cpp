@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 // Out of place & Stable
 
 // Time Complexity
@@ -34,7 +33,9 @@ void Counting_sort(int a[],int n ,int pos){
   for(int i=0;i<n;i++){
     a[i]=output[i];
   }
+
 delete []output;
+
 }
 
 void radix_sort(int a[],int n){
